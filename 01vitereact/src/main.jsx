@@ -5,13 +5,13 @@ import App from './App.jsx'
 
 
 
-function MYApp(){
-    return(
-        <div>
-            <h2>Custom App !!</h2>
-        </div>
-    )
-}
+// function MYApp(){
+//     return(
+//         <div>
+//             <h2>Custom App !!</h2>
+//         </div>
+//     )
+// }
 
 // const ReactElement = {
 //     type: 'a',
