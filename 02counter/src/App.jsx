@@ -7,9 +7,10 @@ function App() {
 
   // let counter = 20
 
-  const addvalue=()=>{
+  const addvalue = () => {
+    setCounter(prev => Math.min(10, prev + 1)) 
+
     // counter=counter+1
-    setCounter(counter+1)    
     // console.log("Clicked",counter);
   }
 
