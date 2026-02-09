@@ -5,7 +5,7 @@ function App() {
 
   let [counter,setCounter]=useState(10)
 
-  // let counter = 20
+  // let counter = 10
 
   const addvalue = () => {
     setCounter(prev => Math.min(10, prev + 1)) 
