@@ -7,13 +7,13 @@ import Card from './components/Card'
  
 function App() {
 
-   const [count, setCount] = useState(0)
-    let myObj={
-        username:"sourav",
-        age:22,
-    }
-    let myArr=[1,2,3,]
-    
+  //  const [count, setCount] = useState(0)
+  //   let myObj={
+  //       username:"sourav",
+  //       age:22,
+  //   }
+  //   let myArr=[1,2,3,]
+
   return (
     <>
     <h1 className="bg-green-500 text-black text-3xl rounded-xl ">
